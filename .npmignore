@@ -1,0 +1,14 @@
+test/
+node_modules/
+src/
+index.ts
+tsconfig.json
+jest.config.js
+.nvmrc
+
+# IDE
+.vscode/launch.json
+.idea/
+*.orig
+*.iml
+*.tgz
